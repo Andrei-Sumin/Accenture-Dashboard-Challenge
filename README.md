@@ -3,5 +3,6 @@
 # Accenture Finance Advanced Analytics Challenge
 This prject is a **winner** of the challenge.
 
+<img src="https://github.com/Andrey-Sumin/Accenture-Dashboard-Challenge/blob/main/Accenture certificate.png" alt="Example Image" width="400">
 
 
