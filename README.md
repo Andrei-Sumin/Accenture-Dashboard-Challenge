@@ -104,3 +104,6 @@ View gender diversity metrics and initiatives.
 ## How to Access the Dashboard
 1. Download the `Dashboard.pbix` file from this repository.
 2. Open the file using Microsoft Power BI Desktop.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
